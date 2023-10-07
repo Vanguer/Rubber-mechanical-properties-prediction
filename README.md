@@ -35,7 +35,7 @@ Here, we present the deep neural network (DNN) model and the calculated Pareto f
   predict_results = model.predict(data)
   ```
   Notice:
-In actual use, the predicted values ​​of the DNN model need to be multiplied by 40(strength), 7(log-fatigue),700(elongation) respectively.
+In actual use, the predicted values ​​of the DNN model need to be multiplied by 40(strength), 7(log-fatigue), 700(elongation) respectively.
 
  ## Cite
  If you use any of our data or code, partly or as it is, please cite our paper.
